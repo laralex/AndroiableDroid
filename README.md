@@ -1,4 +1,4 @@
-### Hi, That's Alexey Larionov (laralex) 👋
+### Hi, I'm Alexey Larionov (laralex) 👋
 
 <!--
 **AndroiableDroid/AndroiableDroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -9,11 +9,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laralex&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/laralex)
 
 ## Comfortable with
-![Rust](https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg)
+<div style="background-color:red;">
+<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="64">
 <img src="https://github.com/isocpp/logos/raw/master/cpp_logo.svg" width="64">
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="64">
-![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="64">
+ </div>
+
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg)
 
 ## I occasionally dig into (not my 24/7 activity)
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
@@ -21,6 +25,7 @@
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
 ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)
+
 
 ## Hobbies
 * [Helping people out](https://stackoverflow.com/users/8564999/alexey-larionov) on StackOverflow! <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="32">
