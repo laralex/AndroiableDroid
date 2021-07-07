@@ -1,12 +1,9 @@
-### Hi, I'm Alexey Larionov (can call me Alex, laralex) 👋
-
 <!--
 **laralex/laralex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-[![laralex github stats](https://github-readme-stats.vercel.app/api?username=laralex&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/laralex)
+[![laralex github stats](https://github-readme-stats.vercel.app/api?username=laralex&show_icons=true&include_all_commits=true&theme=gruvbox&count_private=true&custom_title=Hi%2C%20I%27m%20Alexey%20Larionov%20%F0%9F%91%8B)](https://github.com/laralex)
 
-## Projects languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laralex&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/laralex)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laralex&layout=compact&langs_count=10&theme=gruvbox&hide_title=true)](https://github.com/laralex)
 
 ## Comfortable with
 <div style="background-color:red;">
