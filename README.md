@@ -28,8 +28,9 @@
 ![CMake](https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg)
 
 ## Hobbies
-* Digital art (Blender, Aseprite, Houdini)
+* Competitive programming (2 times ACM ICPC half-finalist)
 * [Helping people out](https://stackoverflow.com/users/8564999/alexey-larionov?tab=profile) on StackOverflow <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="32">
+* Digital art (Blender, Aseprite, Houdini)
 * Penspinning
 
 ## Reach me
