@@ -1,7 +1,7 @@
-### Hi, I'm Alexey Larionov (laralex) 👋
+### Hi, I'm Alexey Larionov (can call me Alex, laralex) 👋
 
 <!--
-**AndroiableDroid/AndroiableDroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**laralex/laralex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 [![laralex github stats](https://github-readme-stats.vercel.app/api?username=laralex&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/laralex)
 
@@ -18,7 +18,7 @@
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="64">
 </div>
 
-## I occasionally dig into (not my 24/7 activity)
+## Occasionally messing around with
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="64">
@@ -29,13 +29,13 @@
 
 ## Hobbies
 * Competitive programming (2 times ACM ICPC half-finalist)
-* [Helping people out](https://stackoverflow.com/users/8564999/alexey-larionov?tab=profile) on StackOverflow <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="32">
+* [Helping people out](https://stackoverflow.com/users/8564999/alexey-larionov?tab=profile) on StackOverflow <img align="top" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="25">
 * Digital art (Blender, Aseprite, Houdini)
 * Penspinning
 
 ## Reach me
-<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="32"> > [alxs.larionov@gmail.com](mailto:alxs.larionov@gmail.com) 
 
-<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" height="32"> > [`@m_laralex`](http://t.me/m_laralex) 
+[<img align="center" src="https://www.vectorlogo.zone/logos/upwork/upwork-ar21.svg" height="45">](https://www.upwork.com/freelancers/~0115eabadb37319e75) /
+[<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40">](mailto:alxs.larionov@gmail.com) / <!--  > [alxs.larionov@gmail.com](mailto:alxs.larionov@gmail.com) !-->
+[<img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" height="32">](http://t.me/m_laralex) [`@m_laralex`](http://t.me/m_laralex) 
 
-<img src="https://www.vectorlogo.zone/logos/upwork/upwork-ar21.svg" height="32"> > [profile](https://www.upwork.com/freelancers/~0115eabadb37319e75)
