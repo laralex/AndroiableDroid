@@ -5,7 +5,7 @@
 
 [![laralex github stats](https://github-readme-stats.vercel.app/api?username=laralex&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/laralex)
 
-## Project languages
+## Projects languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laralex&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/laralex)
 
 ## Comfortable with
@@ -36,6 +36,6 @@
 ## Reach me
 
 [<img align="center" src="https://www.vectorlogo.zone/logos/upwork/upwork-ar21.svg" height="45">](https://www.upwork.com/freelancers/~0115eabadb37319e75) /
-[<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40">](mailto:alxs.larionov@gmail.com) / <!--  > [alxs.larionov@gmail.com](mailto:alxs.larionov@gmail.com) !-->
+[<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40">](mailto:alxs.larionov@gmail.com) `alxs.larionov@gmail.com` / <!--  > [alxs.larionov@gmail.com](mailto:alxs.larionov@gmail.com) !-->
 [<img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" height="32">](http://t.me/m_laralex) [`@m_laralex`](http://t.me/m_laralex) 
 
