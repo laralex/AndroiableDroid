@@ -18,7 +18,7 @@
 
 ## Occasionally messing around with
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
-![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)
+![Unity](images/unity-custom.svg)
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="64">
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
