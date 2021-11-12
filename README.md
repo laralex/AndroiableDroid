@@ -6,24 +6,26 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laralex&layout=compact&langs_count=10&theme=gruvbox&hide_title=true)](https://github.com/laralex)
 
+### 🔭 My current focus: ###
+Real time computer graphics, VR/AR. Making it fast and beautiful
+
 ## Comfortable with
 <div style="background-color:red;">
-<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="64">
-<img src="https://github.com/isocpp/logos/raw/master/cpp_logo.svg" width="64">
-<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="64">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="64">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="64">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="64">
+<code><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="64"></code>
+<code><img src="https://github.com/isocpp/logos/raw/master/cpp_logo.svg" width="64"></code>
+<code><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="64"></code>
+<code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="64"></code>
+<code><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="64"></code>
 </div>
 
 ## Occasionally messing around with
-![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
-![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg)
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="64">
-![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
-![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
-![CMake](https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg)
+<code><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="64"></code>
+<code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" height="64"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="64"></code>
+<code><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64"></code>
+<code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="64"></code>
+<code><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="64"></code>
+<code><img src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg" height="64"></code>
 
 ## Hobbies
 * Competitive programming (2 times ACM ICPC half-finalist)
