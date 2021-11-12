@@ -1,6 +1,6 @@
 <!--
 **laralex/laralex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-## Hi, I'm Alexey Larionov 👋 (may call me Alex)
+## Hi, I'm Alexey Larionov ✋ (may call me Alex)
 
 [![laralex github stats](https://github-readme-stats.vercel.app/api?username=laralex&show_icons=true&include_all_commits=true&theme=gruvbox&count_private=true&hide_title=true)](https://github.com/laralex)
 
