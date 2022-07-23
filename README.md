@@ -1,13 +1,13 @@
 <!--
 **laralex/laralex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-## Hi, I'm Alexey Larionov ✋ (may call me Alex)
+## Hi, I'm Alexey Larionov ✋ (Alex, he/him)
 
 [![laralex github stats](https://github-readme-stats.vercel.app/api?username=laralex&show_icons=true&include_all_commits=true&theme=gruvbox&count_private=true&hide_title=true)](https://github.com/laralex)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laralex&layout=compact&langs_count=10&theme=gruvbox&hide_title=true)](https://github.com/laralex)
 
 ### 🔭 My current focus: ###
-Real time computer graphics, VR/AR. Making it fast and beautiful
+Real time computer graphics, VR/AR. Making it fast and beautiful. A daily job in deep neural networks research for image generation. 
 
 ## Comfortable with
 <div style="background-color:red;">
@@ -15,7 +15,6 @@ Real time computer graphics, VR/AR. Making it fast and beautiful
 <code><img src="https://github.com/isocpp/logos/raw/master/cpp_logo.svg" width="64"></code>
 <code><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="64"></code>
 <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="64"></code>
-<code><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="64"></code>
 </div>
 
 ## Occasionally messing around with
@@ -24,13 +23,14 @@ Real time computer graphics, VR/AR. Making it fast and beautiful
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="64"></code>
 <code><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64"></code>
 <code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="64"></code>
+<code><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="64"></code>
 <code><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="64"></code>
-<code><img src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg" height="64"></code>
+<!--<code><img src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg" height="64"></code>-->
 
 ## Hobbies
 * Competitive programming (2 times ACM ICPC half-finalist)
 * [Helping people out](https://stackoverflow.com/users/8564999/alexey-larionov?tab=profile) on StackOverflow <img align="top" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="25">
-* Digital art (Blender, Aseprite, Houdini)
+* Languages
 * Penspinning
 
 ## Reach me
