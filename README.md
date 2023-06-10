@@ -2,9 +2,9 @@
 **laralex/laralex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## Hi, I'm Alexey Larionov ✋ (can call me Alex, male, 24 y.o.)
 
-[![laralex github stats](https://github-readme-stats.vercel.app/api?username=laralex&show_icons=true&include_all_commits=true&theme=gruvbox&count_private=true&hide_title=true)](https://github.com/laralex)
+[![laralex github stats](https://github-readme-stats.vercel.app/api?username=laralex&show_icons=true&include_all_commits=true&theme=transparent&count_private=true&hide_title=true&rank_icon=github)](https://github.com/laralex)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laralex&layout=compact&langs_count=10&theme=gruvbox&hide_title=true)](https://github.com/laralex)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laralex&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide=javascript,html,cmake,batchfile)](https://github.com/laralex)
 
 ### 🔭 My current focus: ###
 Real time computer graphics, VR/AR. Making it fast and beautiful. A daily job in deep computer graphics R&D (Samsung), with focus on generative image neural networks. 
