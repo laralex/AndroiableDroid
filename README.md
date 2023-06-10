@@ -1,30 +1,33 @@
 <!--
 **laralex/laralex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-## Hi, I'm Alexey Larionov ✋ (Alex, he/him)
+## Hi, I'm Alexey Larionov ✋ (can call me Alex, male, 24 y.o.)
 
 [![laralex github stats](https://github-readme-stats.vercel.app/api?username=laralex&show_icons=true&include_all_commits=true&theme=gruvbox&count_private=true&hide_title=true)](https://github.com/laralex)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laralex&layout=compact&langs_count=10&theme=gruvbox&hide_title=true)](https://github.com/laralex)
 
 ### 🔭 My current focus: ###
-Real time computer graphics, VR/AR. Making it fast and beautiful. A daily job in deep neural networks research for image generation. 
+Real time computer graphics, VR/AR. Making it fast and beautiful. A daily job in deep computer graphics R&D (Samsung), with focus on generative image neural networks. 
 
 ## Comfortable with
 <div style="background-color:red;">
-<code><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="64"></code>
-<code><img src="https://github.com/isocpp/logos/raw/master/cpp_logo.svg" width="64"></code>
-<code><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="64"></code>
-<code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="64"></code>
+<code><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="64">Rust</code>
+<code><img src="https://github.com/isocpp/logos/raw/master/cpp_logo.svg" width="64">C++17</code>
+<code><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="64">Python</code>
+<code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="64">PyTorch</code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="64">OpenGL</code>
 </div>
 
 ## Occasionally messing around with
-<code><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="64"></code>
-<code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" height="64"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="64"></code>
-<code><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64"></code>
-<code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="64"></code>
-<code><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="64"></code>
-<code><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="64"></code>
+<code><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="64">Linux</code>
+<code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" height="64">Unity</code>
+<code><img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" height="64">Godot</code>
+
+
+<code><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64">Java</code>
+<code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="64">Kotlin</code>
+<code><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="64">C#</code>
+<code><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="64">Docker</code>
 <!--<code><img src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg" height="64"></code>-->
 
 ## Hobbies
