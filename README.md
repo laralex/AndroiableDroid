@@ -24,8 +24,8 @@ Real time computer graphics, VR/AR. Making it fast and beautiful. A daily job in
 <code><img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" height="64">Godot</code>
 
 <code><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="64">C#</code>
-<code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="64">Kotlin</code>
-<code><img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-ar21.svg" width="64">Zig</code>
+<!--.<code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="64">Kotlin</code>-->
+<!--<code><img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-ar21.svg" width="64">Zig</code>-->
 <code><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="64">Docker</code>
 <!--<code><img src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg" height="64"></code>-->
 
