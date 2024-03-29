@@ -1,13 +1,19 @@
 <!--
-**laralex/laralex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-## Hi, I'm Alexey Larionov ✋ (can call me Alex, male, 25 y.o.)
+**laralex/laralex** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.-->
+## Hi, I'm Alexey Larionov  (can call me Alex, male, 25 y.o.)
 
 [![laralex github stats](https://github-readme-stats.vercel.app/api?username=laralex&show_icons=true&include_all_commits=true&theme=transparent&count_private=true&hide_title=true&rank_icon=github)](https://github.com/laralex)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laralex&layout=compact&langs_count=10&theme=transparent&hide_title=true&hide=javascript,html,cmake,batchfile)](https://github.com/laralex)
 
-### 🔭 My current focus: ###
-Real time computer graphics, VR/AR. Making it fast and beautiful. A daily job in deep computer graphics R&D (Samsung), with focus on generative image neural networks. 
+###  My current focus: ###
+Real time computer graphics, VR/AR. Making it fast and beautiful. 
+
+Currently my daily job (Huawei) is related to frame prediction for 3D games on mobile phones. Developing a native C++ SDK, and adopting it to Unity game engine. 
+
+Ex Deep Learning R&D (Samsung), with focus on generative image neural networks and launching them in real-time on mobile phones in augmented reality 
+
+Ex Skoltech master degree graduate.
 
 ## Comfortable with
 <div style="background-color:red;">
