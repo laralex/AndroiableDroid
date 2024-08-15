@@ -21,11 +21,11 @@ Ex Skoltech master degree graduate.
 <code><img src="https://github.com/isocpp/logos/raw/master/cpp_logo.svg" width="64">C++17</code>
 <code><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="64">Python</code>
 <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="64">PyTorch</code>
-<code><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64">Java</code>
+<code><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="64">Rust</code>
 </div>
 
 ## Occasionally messing around with
-<code><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="64">Rust</code>
+<code><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64">Java</code>
 <code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" height="64">Unity</code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" height="64">Godot</code>
 <code><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="64">C#</code>
@@ -38,7 +38,7 @@ Ex Skoltech master degree graduate.
 ## Hobbies
 * Competitive programming (2 times ACM ICPC half-finalist)
 * [Helping people out](https://stackoverflow.com/users/8564999/alexey-larionov?tab=profile) on StackOverflow <img align="top" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" width="25">
-* Human languages (used to study English, Polish, Korean, native Russian)
+* Proficient in English, Russian, studying French, used to study Korean, Polish
 * Penspinning
 
 ## Reach me
