@@ -25,7 +25,8 @@ Ex Skoltech master degree graduate.
 </div>
 
 ## Occasionally messing around with
-<code><img src="https://commons.wikimedia.org/wiki/File:Vulkan_logo.svg" height="64">Vulkan</code>
+<code><img src="https://github.com/gilbarbara/logos/blob/main/logos/webgpu.svg" height="64">WebGPU</code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vulkan_logo.svg" height="64">Vulkan</code>
 <code><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64">Java</code>
 <code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" height="64">Unity</code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" height="64">Godot</code>
